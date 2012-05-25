@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.htaccess
+!web.config
+!cache
+!sessions
+!uploads
